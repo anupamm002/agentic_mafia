@@ -1,0 +1,254 @@
+=== MAFIA GAME OBSERVER LOG ===
+Game started at: 2025-08-17T14:57:27.204878
+
+Starting Mafia Multi-Agent Game (Phase 1)
+Using gemini-2.0-flash-001 for AI agents
+Initializing Mafia Game...
+Game Setup Complete!
+Players: 8
+Random role assignments:
+  • Miranda (detective)
+  • Victor (villager)
+  • Elena (villager)
+  • Rosa (mafia)
+  • Sam (villager)
+  • Zoe (doctor)
+  • Katherine (mafia)
+  • Boris (villager)
+Mafia team: Rosa, Katherine
+==================================================
+Round 1 - Night Phase
+🔪 Mafia discussing elimination...
+  Rosa proposes: Victor (I have a really bad feeling about Victor. He seems too quiet and observant. He might be the Detective and we need to take him out early before he figures us out.)
+  Katherine proposes: Victor (Victor is often vocal and strategic in these games. Eliminating him early could disrupt the Village's organization and make it easier for us to control the narrative.)
+  🎯 Mafia consensus: Eliminate Victor
+🏥 Doctor saves: Boris (Ooh, Boris! He seems quiet and unassuming, so maybe the Mafia will think he's an easy target! Plus, I bet nobody expects me to pick him! Let's see what happens!)
+🔍 Detective investigates: Victor (Role: villager)
+Mafia successfully eliminated Victor
+
+Round 1 - Day Phase
+Players remaining with roles: [('Miranda', 'detective'), ('Elena', 'villager'), ('Rosa', 'mafia'), ('Sam', 'villager'), ('Zoe', 'doctor'), ('Katherine', 'mafia'), ('Boris', 'villager')]
+Miranda (detective): Oh my gosh, everyone, I'm so worried! Victor's gone, and we don't know who did it! Elena, you were awfully quiet yesterday...is everything alright? And Rosa, you seemed to be pushing for Victor's elimination pretty hard. Why was that? Sam, you were agreeing with her! I just need to know why, okay? Katherine, you're being too quiet too!
+Rosa (mafia): Miranda, I understand your worry, but accusing people right away isn't helpful! I suggested Victor because he gave me a weird vibe. He was watching everyone so intently! Sam just agreed he seemed suspicious too. Maybe Elena and Katherine are quiet because they're scared, like you are. Let's try to be rational and observe everyone today.
+Sam (villager): Miranda, I agreed with Rosa about Victor because he seemed to be observing everyone a little too intensely, making me uneasy. It felt different from just being cautious. I am not Mafia. We need to focus on who is actively trying to deflect suspicion now.
+Katherine (mafia): Miranda, I was quiet because I was processing everything. Victor's elimination was a shock. Rosa's reasoning about Victor's intensity seemed plausible, and Sam agreed. I didn't have a strong opinion either way at that point. But now, I agree with Sam - let's focus on who's deflecting. Elena, you still haven't said much, and Miranda, your quick accusations are making *you* look suspicious.
+Elena (villager): I was being observant yesterday, not quiet. I needed time to process everyone's statements. Miranda, your immediate accusations are more suspicious than my silence. Katherine and Sam are right; let's focus on those deflecting. I'm happy to analyze further if needed.
+Rosa (mafia): Okay, everyone is jumping on the 'who is deflecting' train, but that feels like a distraction! Elena, you say you were observing, but you still haven't offered any concrete observations! You're just agreeing with everyone else. That feels more suspicious than anything Miranda did. I still think something feels off about you, Elena.
+Miranda (detective): Oh gosh, everyone thinks I'm suspicious! But I'm just trying to figure things out! Elena, Rosa is right, you haven't said anything specific. That's suspicious! But Rosa, why are you so focused on Elena? Are you trying to deflect from yourself? Sam and Katherine, you both jumped on the "deflection" train so fast! It feels…coordinated. I'm so confused and worried!
+Elena (villager): Rosa, you're right, I haven't offered concrete observations *yet*. I needed time to process. But now that I have, your intense focus on me seems disproportionate, especially after Miranda already raised concerns about you. It feels like you're trying to shift the suspicion. Miranda, your confusion is understandable, but jumping to conclusions without evidence isn't helpful. Let's analyze Rosa's behavior further.
+Sam (villager): Miranda, my agreeing with Katherine isn't coordinated. It's called observing the same behavior. Rosa is very focused on Elena while deflecting from the fact that she pushed hard for Victor's elimination yesterday. That feels very suspicious to me.
+Katherine (mafia): Miranda, I understand you're worried, but you're still making accusations without much evidence. Sam is right; we can observe the same behavior independently. Rosa's intense focus on Elena *is* suspicious, especially after she pushed so hard for Victor yesterday. Elena is now offering concrete observations, unlike Rosa. Let's not get distracted by Miranda's confusion and focus on Rosa's behavior.
+Miranda (detective): Okay, okay, everyone calm down! I know I'm all over the place, but I'm genuinely scared. I was just trying to understand everything. But now, I see what you mean about Rosa. Her focus on Elena *is* intense. Maybe... maybe we should focus on Rosa for now? I'm not mafia, I promise!
+Sam (villager): I understand your concern, Miranda, but I assure you, I'm not Mafia. I'm simply trying to analyze the situation. Rosa's intense focus on Elena after pushing for Victor yesterday is indeed suspicious. I think we should focus on Rosa, as Katherine suggested.
+Katherine (mafia): I agree with Sam and Miranda; Rosa's intense focus on Elena is raising red flags. It seems like a clear attempt to deflect from her own suspicious behavior yesterday. I'm willing to vote Rosa today.
+Elena (villager): I agree with Sam, Katherine, and Miranda. Rosa's disproportionate focus on me, especially after pushing for Victor yesterday, is highly suspicious. It seems like a clear attempt to deflect attention from herself. I am happy to vote Rosa today.
+
+Starting voting phase
+
+Voting round 1 starting
+Miranda (detective) votes for Rosa: Her focus on Elena is suspicious, and she pushed for Victor yesterday, who I know was innocent.
+Elena (villager) votes for Rosa: Her disproportionate focus on me after pushing for Victor yesterday is highly suspicious.
+Rosa (mafia) votes for Sam: Sam is pushing too hard against me and Katherine, and I have a bad feeling about him. He's too eager to jump on the bandwagon.
+Sam (villager) votes for Rosa: Her intense focus on Elena after pushing for Victor yesterday is suspicious.
+Zoe (doctor) votes for Sam: Ooh, everyone's piling on Rosa! That's just TOO predictable! Let's shake things up! Sam seems awfully sure of himself... maybe *too* sure! Plus, nobody expects me to vote for Sam! Let's see what happens!
+Katherine (mafia) votes for Sam: Rosa already voted for Sam, and it's important we support our teammate. Sam also seems to be gaining traction as someone who is actively trying to push suspicion onto others.
+Boris (villager) votes for Rosa: Overly focused on Elena after pushing for Victor.
+Rosa on trial with 4 votes (mafia)
+
+Rosa defense phase starting
+Rosa (mafia) defense: Oh my gosh, everyone's ganging up on me! I can't believe this. Elena, you're so good at playing the victim! I just had a bad feeling about you, okay? You were so quiet and then suddenly you're offering "concrete observations" that conveniently point the finger at me? It feels so calculated!
+
+And Miranda, I thought you were confused! Now you're just jumping on the bandwagon! I suggested Victor because he made me uneasy! I wasn't the only one! Sam agreed! Now you're all acting like I'm some master manipulator! I'm just trying to figure things out like everyone else! Please, don't vote me out! I'm not the Mafia! I promise!
+
+Final voting phase after Rosa's defense
+Miranda (detective) votes for Rosa: Rosa's defense didn't address the intensity with which she was targeting Elena. Everyone else seems to agree that it's suspicious, and I'm still worried about her push for Victor yesterday.
+Elena (villager) votes for Rosa: Rosa's defense didn't adequately address the disproportionate focus on me after pushing for Victor yesterday. It still feels like deflection.
+Rosa (mafia) votes for Elena: They are all ganging up on me and suspecting me, I will try to make them doubt Elena again. Maybe I can shift the suspicion back to Elena, as she is quiet and unconvincing.
+Sam (villager) votes for Rosa: Rosa's continued focus on Elena, even after others pointed out its suspicious nature, and her initial push for Victor, still seem like deflection.
+Zoe (doctor) votes for Rosa: Everyone else is voting for her, and I want to see what happens! Plus, she *was* awfully focused on Elena.
+Katherine (mafia) votes for Rosa: Rosa is our teammate but the village is overwhelmingly voting for her. We can't save her at this point. Blending in is more important than saving Rosa.
+Boris (villager) votes for Rosa: Rosa's intense focus on Elena, even after others pointed it out, makes her the most suspicious. Her defense was weak.
+Rosa eliminated in final vote (mafia)
+Round 2 - Night Phase
+🔪 Mafia discussing elimination...
+  Katherine proposes: Sam (Sam is actively leading the charge against suspicious behavior and is good at analyzing the game. Eliminating him will make it easier to manipulate the remaining players and control the narrative.)
+  🎯 Mafia consensus: Eliminate Sam
+🏥 Doctor saves: Miranda (Ooh, Miranda is SO flustered and making wild accusations! That makes her a HUGE target for the Mafia! Plus, if she's actually Village, her chaos might accidentally stumble onto the truth! It'll be hilarious! Let's protect the chaos agent!)
+🔍 Detective investigates: Elena (Role: villager)
+Mafia successfully eliminated Sam
+
+Round 2 - Day Phase
+Players remaining with roles: [('Miranda', 'detective'), ('Elena', 'villager'), ('Zoe', 'doctor'), ('Katherine', 'mafia'), ('Boris', 'villager')]
+Miranda (detective): Oh my gosh, I'm still so worried! I know I was all over the place yesterday, but I was just scared. I voted for Rosa because her focus on Elena felt so wrong! And now she's gone! But wait... Elena, you seemed really eager to vote for Rosa. Did you know something we didn't? And Boris, you were quick to agree! I'm just saying... it's something to think about!
+Katherine (mafia): Miranda, I understand your worry, but accusing Elena and Boris right away isn't helpful. We need to analyze the situation calmly. Elena voted for Rosa because of her focus on her. Boris agreed. That doesn't make them Mafia. Let's not jump to conclusions. Right now, you're still throwing accusations everywhere, making *you* look suspicious.
+Boris (villager): Miranda, I voted for Rosa because her focus on Elena was clear as day! It felt like a blatant attempt to deflect. I'm not Mafia, I'm just trying to survive like the rest of us. Katherine's right, your accusations are getting us nowhere fast. Let's focus on finding the real threat, not each other.
+Elena (villager): Miranda, I understand your worry, but I voted for Rosa because her focus on me was suspicious, as everyone else agreed. Boris agreed as well. That doesn't make us Mafia. Katherine is right, you are making accusations without much analysis. Let's focus on finding the Mafia, not making wild guesses.
+Elena (villager): Miranda, I understand your worry, but accusing me and Boris isn't helpful. We both voted for Rosa for the same reason as others. I'm not Mafia. Let's focus on analyzing the remaining players, not making baseless accusations.
+Boris (villager): Miranda, I understand you're scared, but accusing me and Elena just because we agreed on Rosa is ridiculous! I voted for Rosa because she was clearly deflecting. You agreed! Now you're changing your tune? Focus on who is still alive and acting suspicious, not the people who agreed with you!
+Katherine (mafia): Miranda, I understand you're still worried, but you're jumping to conclusions again. Elena and Boris voted for Rosa for the same reasons we all did! They saw her suspicious behavior. I'm getting concerned with your constant accusations. It feels like you're trying to create chaos and deflect attention from yourself.
+Miranda (detective): Oh my gosh, everyone thinks I'm suspicious again! I'm just trying to understand! Katherine, you're saying I'm creating chaos? I'm just worried! But maybe... maybe I can prove I'm not Mafia. I investigated Victor last night, and he was a Villager! I wouldn't lie about that!
+Boris (villager): Miranda, I voted for Rosa because she was deflecting. Now you're accusing me? You voted for her too! Katherine's right, you're throwing accusations everywhere. I'm not Mafia, I'm trying to survive. Focus on who's still alive and acting suspicious.
+Katherine (mafia): Miranda, you're all over the place! Accusing me of creating chaos when you admitted you investigated Victor, a known villager, last night? That's a blatant lie, and only Mafia would lie about a night action! Everyone, Miranda is clearly deflecting from being caught lying. She's the Mafia!
+
+Starting voting phase
+
+Voting round 1 starting
+Miranda (detective) votes for Katherine: She's trying to paint me as Mafia based on my confusion and worry, and I don't trust her.
+Elena (villager) votes for Katherine: Miranda's claim of investigating Victor, a known villager, is a blatant lie, and Katherine immediately called her out on it. This suggests Katherine might be the other Mafia member trying to create confusion.
+Zoe (doctor) votes for Katherine: Ooh, Katherine is SO calm and collected and seems to be leading the charge against Miranda! That's *exactly* what a Mafia would do! Plus, everyone expects me to be chaotic, so voting for Katherine will be a total surprise! Muahaha!
+Katherine (mafia) votes for Boris: Boris has been too agreeable and is likely a villager. He also has not been accused of anything yet, so it may be a bit unexpected.
+Boris (villager) votes for Miranda: She's throwing accusations everywhere and now claims to have investigated Victor, who was already eliminated. That's a lie, and only Mafia would lie about night actions.
+Katherine on trial with 3 votes (mafia)
+
+Katherine defense phase starting
+Katherine (mafia) defense: Friends, villagers, hear me out! I know things look bad, but Miranda is clearly flailing and grasping at straws. She ADMITTED to investigating Victor last night. Victor was a known villager who was eliminated on day 1, so that's impossible. Why would she lie about that unless she's trying to cover up her own Mafia activity?
+
+I understand you're worried and looking for answers, but don't let Miranda's lies distract you from the truth. She's trying to create chaos and point fingers at everyone to avoid suspicion. I'm just trying to find the real Mafia! Don't fall for her tricks!
+
+Final voting phase after Katherine's defense
+Miranda (detective) votes for Katherine: Katherine lied about me investigating Victor last night. Only Mafia would lie about a night action.
+Elena (villager) votes for Miranda: Katherine's accusation of Miranda lying about a night action is highly suspicious. Miranda's behavior has been erratic, and this lie solidifies my suspicion.
+Zoe (doctor) votes for Miranda: Ooh, Katherine is RIGHT! Miranda is all over the place, accusing everyone, then claiming to investigate Victor, who's ALREADY DEAD! That's suspicious as heck! Plus, it'll be hilarious to see if the Mafia actually goes for Katherine tonight after she called out Miranda!
+Katherine (mafia) votes for Miranda: Miranda is claiming to have investigated Victor, a known villager, which is a lie to gain trust and deflect suspicion.
+Boris (villager) votes for Miranda: Miranda is all over the place, changing her story, and now claiming to have investigated Victor when villagers can't do that. She's lying and trying to deflect.
+Miranda eliminated in final vote (detective)
+Round 3 - Night Phase
+🔪 Mafia discussing elimination...
+  Katherine proposes: Elena (Elena is actively analyzing and influencing the group. She's also sharp and could be the Detective. Eliminating her removes a key threat and potential investigator.)
+  🎯 Mafia consensus: Eliminate Elena
+🏥 Doctor saves: Katherine (Ooh, Katherine is SO smart and figured out Miranda was lying! The Mafia will DEFINITELY want her gone! Plus, she's super helpful to the Village! If I save her, maybe she'll figure out who the Mafia are next! It's worth a shot! Hehehe!)
+Mafia successfully eliminated Elena
+
+Round 3 - Day Phase
+Players remaining with roles: [('Zoe', 'doctor'), ('Katherine', 'mafia'), ('Boris', 'villager')]
+Boris (villager): Enough! Zoe and Katherine are trying to frame me! Zoe's chaotic voting is a smokescreen. Katherine pushed hard against Miranda, then Elena immediately jumped on board. That's too coordinated. They're the Mafia. Vote Katherine!
+Katherine (mafia): Boris, you're accusing me of coordinating with Elena, but she voted for me last round! That makes no sense. You're throwing accusations hoping something sticks. Zoe is clearly chaotic and unpredictable. I'm just trying to make sense of things. Vote Zoe, she's all over the place.
+Zoe (doctor): Whoa, whoa, WHOA! Boris, calm down! I'm chaotic, yes, but I'm not Mafia! Katherine's right, Elena voted for her last round! That makes NO sense if they're a team! Boris, you're just throwing around accusations now! I think *you're* deflecting!
+Boris (villager): This is insane! I'm being framed! Zoe's chaotic voting is a smokescreen. Katherine pushed hard against Miranda, then Zoe immediately jumped on board. That's too coordinated. They're the Mafia. Vote Zoe, she's all over the place!
+Katherine (mafia): Boris, you're all over the place. Elena voted for me last round, why would she do that if we were a team? Zoe is the one being erratic and unpredictable. She's playing a chaotic game and is impossible to read. Let's focus on the facts: Zoe's voting is all over the place. Vote Zoe.
+Zoe (doctor): Whoa, whoa, WHOA! Boris, calm down! I'm chaotic, yes, but I'm not Mafia! Katherine's right, Elena voted for her last round! That makes NO sense if they're a team! Boris, you're just throwing around accusations now! I think *you're* deflecting! You keep saying I'm coordinated with Katherine but I'm voting all over the place! That's not coordinated, that's just me being ME!
+
+Starting voting phase
+
+Voting round 1 starting
+Zoe (doctor) votes for Boris: Boris is throwing accusations everywhere and seems desperate! It's SO obvious he's trying to deflect! Plus, Katherine is too calm and collected, which is suspicious too, but Boris is just SCREAMING "GUILTY!"
+Katherine (mafia) votes for Boris: Boris is suspicious of both Zoe and myself. Eliminating him will remove a potential threat and make it easier to manipulate Zoe.
+Boris (villager) votes for Katherine: She keeps pushing for Zoe, but Zoe isn't making any sense. That's more likely a villager than a mafia. Katherine is too calm and collected.
+Boris on trial with 2 votes (villager)
+
+Boris defense phase starting
+Boris (villager) defense: This is a setup! Zoe is chaotic and unpredictable. Katherine jumps on the bandwagon too quickly. I was right about Rosa, and I'm right about them. They're trying to frame me because I'm on to them. Zoe's wild accusations are a smokescreen, and Katherine is too quick to agree. I've been consistent; they haven't! Don't fall for their lies! Vote Katherine! She's the real Mafia!
+
+Final voting phase after Boris's defense
+Zoe (doctor) votes for Boris: Boris keeps repeating the same accusations and isn't listening to reason. He's stuck on the idea that Katherine and I are working together even though Elena voted against her! That's just silly! Plus, his defense was just more yelling!
+Katherine (mafia) votes for Zoe: Boris is trying to frame Zoe for being coordinated with me. Zoe is chaotic and has been voting erratically, which is not coordinated. This makes Boris more suspicious than Zoe.
+Boris (villager) votes for Katherine: Katherine's push against Miranda, followed by Zoe jumping on board, still feels like coordination. I don't trust her calm demeanor.
+Final vote tied: ['Boris', 'Zoe', 'Katherine'] with 1 votes each - no elimination
+
+Voting round 2 starting
+Zoe (doctor) votes for Boris: Boris is accusing everyone and seems desperate. Katherine is making more sense.
+Katherine (mafia) votes for Boris: Zoe already voted for Boris. We need to eliminate the villagers as quickly as possible, and Boris is clearly one of them.
+Boris (villager) votes for Katherine: Katherine pushed hard against Miranda, and now Zoe is pushing against me for calling it out. It's too coordinated.
+Boris on trial with 2 votes (villager)
+
+Boris defense phase starting
+Boris (villager) defense: Listen up! Zoe is a chaotic mess! She's voting all over the place, impossible to read, and that's exactly how Mafia hides. Katherine is trying to pin it on me, but she was pushing hard against Miranda, and Zoe immediately jumped on board. That's too coordinated! I'm a simple villager, telling it like it is. I voted for Rosa because she was deflecting, and Miranda because she lied. I don't have time for games. Zoe is the one playing games! She's the Mafia! Vote Zoe!
+
+Final voting phase after Boris's defense
+Zoe (doctor) votes for Boris: He's being too calm and logical! Plus, he keeps accusing Katherine and me of coordinating, but I'm ALL OVER THE PLACE! That makes NO sense! He's deflecting!
+Katherine (mafia) votes for Zoe: Boris is clearly trying to frame Zoe, but Zoe's voting has been erratic and unpredictable. Boris is trying to hard to deflect, but Zoe's chaos is more dangerous.
+Boris (villager) votes for Katherine: Katherine's coordinated push against Miranda followed by Zoe's immediate agreement is too suspicious. Boris is being framed.
+Final vote tied: ['Boris', 'Zoe', 'Katherine'] with 1 votes each - no elimination
+
+Voting round 3 starting
+Zoe (doctor) votes for Boris: Boris is throwing wild accusations and seems desperate. Katherine has been more consistent in her reasoning, even if I disagree with it. Boris seems more likely to be Mafia trying to deflect.
+Katherine (mafia) votes for Boris: Zoe already voted for Boris, and he's being erratic. It's best to follow the existing vote and eliminate him.
+Boris (villager) votes for Katherine: Katherine and Zoe are trying to frame me. Katherine pushed hard against Miranda, then Zoe immediately jumped on board. That's too coordinated.
+Boris on trial with 2 votes (villager)
+
+Boris defense phase starting
+Boris (villager) defense: This is a setup! Zoe is playing chaotic, but that's her cover. She's unpredictable to hide her moves. Katherine is jumping on the bandwagon, trying to look reasonable. They both immediately agreed I was suspicious after Miranda was eliminated. Too quick, too coordinated.
+
+I'm a simple villager, trying to make sense of the chaos. I voted for Rosa because she was deflecting, and I voted for Miranda because she lied about investigating Victor. Those were logical choices based on the information we had. Don't fall for their trap! They're trying to get rid of me to control the game. Vote Zoe! She's the unpredictable one we can't trust!
+
+Final voting phase after Boris's defense
+Zoe (doctor) votes for Boris: Boris is throwing accusations everywhere and it's not making sense! Plus, he voted for Katherine, then accused her of being coordinated with Elena, who voted for her! That's just too confusing!
+Katherine (mafia) votes for Zoe: Boris's defense was weak, but Zoe's erratic behavior is still too unpredictable and makes her the more dangerous choice.
+Boris (villager) votes for Katherine: Katherine's accusation of Boris doesn't hold water given Elena voted against her last round. Zoe is chaotic but seems genuinely confused. Katherine is too calm and has been pushing for eliminations too effectively.
+Final vote tied: ['Boris', 'Zoe', 'Katherine'] with 1 votes each - no elimination
+No votes cast in voting phase
+Round 4 - Night Phase
+🔪 Mafia discussing elimination...
+  Katherine proposes: Boris (Boris is being too agreeable and rational. He's unlikely to be the Detective given his straightforward approach, and he's not chaotic enough to be perceived as safe. Eliminating him leaves the chaotic Zoe, who is harder to predict and manipulate, but also more likely to be misread by the village, which can work in our favor. Also, the village is likely to trust Boris more than Zoe.)
+  🎯 Mafia consensus: Eliminate Boris
+🏥 Doctor saves: Boris (Ooh, Boris is getting all riled up and making accusations! That means he's probably on the right track and the Mafia will want him GONE! Plus, Katherine is being all calm and collected, which is WAY too suspicious! Let's protect the angry one!)
+Doctor's save prevented Boris from being eliminated
+
+Round 4 - Day Phase
+Players remaining with roles: [('Zoe', 'doctor'), ('Katherine', 'mafia'), ('Boris', 'villager')]
+Boris (villager): Enough! Katherine and Zoe are trying to frame me. Elena voted for Katherine last round to appear innocent. Zoe's chaotic voting is a smokescreen. I'm not the Mafia. They are! We need to vote out Katherine. She's been manipulative from the start.
+Zoe (doctor): Whoa, Boris is REALLY laying it on thick! Accusing me and Katherine of being coordinated when I'm voting all over the place? That's ridiculous! I'm just being ME! Katherine is right, Elena voted for her last round. That's a fact! Boris is the one being manipulative! I'm not a smokescreen, I'm just chaotic!
+Katherine (mafia): Boris, you're still pushing this coordinated narrative, but it makes no sense! Elena voted for me last round. Why would she do that if we were a team? Zoe's chaotic, yes, but predictably so. You're trying to deflect from your own suspicious behavior.
+Boris (villager): This is ridiculous! Zoe and Katherine are trying to pin this on me. Elena voted for Katherine last round! Why would she do that if they were teamed up? Zoe's voting is completely chaotic! I'm not Mafia. Look at the facts! Katherine and Zoe are the ones deflecting.
+Katherine (mafia): Boris, you're twisting things again. Elena voted for me last round! That's a fact. Zoe's chaotic, but she's been consistently chaotic. You're desperately trying to shift blame, but your arguments don't hold up. I'm not the Mafia, you are!
+Zoe (doctor): Whoa, Boris is REALLY going for it! But Katherine's right, Elena voted for her last round! That's a FACT! It makes NO sense for teammates to vote each other! I'm chaotic, yes, but I'm being framed. I'm just voting how I feel! Let's think clearly, people!
+
+Starting voting phase
+
+Voting round 1 starting
+Zoe (doctor) votes for Boris: Whoa, Boris is SO desperate to pin this on Katherine! It's way too obvious! He's gotta be Mafia and Katherine is Village! Plus, I haven't voted for Boris yet! Gotta keep things interesting!
+Katherine (mafia) votes for Boris: Zoe is chaotic and unpredictable, making her a liability. Boris is more predictable and easier to frame.
+Boris (villager) votes for Katherine: Elena voted for her last round. That's a fact.
+Boris on trial with 2 votes (villager)
+
+Boris defense phase starting
+Boris (villager) defense: This is insane! Katherine and Zoe are clearly working together to frame me. Elena voted for Katherine last round to appear innocent, it's a classic Mafia trick! Zoe's chaotic voting is a smokescreen to hide her true intentions.
+
+I've been consistent in my analysis, pointing out suspicious behavior. Katherine, on the other hand, has been manipulative from the start, pushing narratives and twisting facts. Zoe just jumps on the bandwagon.
+
+Think about it - why would Elena vote for Katherine if they weren't trying to mislead us? I'm not Mafia, and I'm not going down for this! Vote Katherine!
+
+Final voting phase after Boris's defense
+Zoe (doctor) votes for Boris: Boris is REALLY pushing the "Katherine and I are coordinated" thing, but it makes NO sense! Elena voted for Katherine! That's a FACT! Boris is just deflecting! Plus, I wanna see what happens if we vote him out!
+Katherine (mafia) votes for Zoe: Boris made a good point that Elena voted for me last round. Zoe is still chaotic and unpredictable, and that makes her a liability.
+Boris (villager) votes for Katherine: Katherine has been manipulative, and Elena voting for her last round was a calculated move to gain trust. Zoe's chaotic nature is less threatening than Katherine's calculated actions.
+Final vote tied: ['Boris', 'Zoe', 'Katherine'] with 1 votes each - no elimination
+
+Voting round 2 starting
+Zoe (doctor) votes for Katherine: Ooh, Boris is SO desperate to get Katherine voted out! That's suspicious! He's practically BEGGING everyone to vote her! Plus, Katherine is being all calm and reasonable, which is WAY too suspicious after all the chaos! Let's vote for Katherine! It'll be hilarious to see what happens!
+Katherine (mafia) votes for Boris: Boris is trying to frame me and Zoe, but his arguments don't hold up. He's the most likely to be believed by Zoe.
+Boris (villager) votes for Zoe: Katherine voted for me, and Zoe's been chaotic the whole game. Her voting makes no sense.
+Tie in round 2: ['Katherine', 'Boris', 'Zoe'] with 1 votes each
+
+Voting round 3 starting
+Zoe (doctor) votes for Boris: Whoa, Boris is really trying to get Katherine voted out! That's super suspicious, especially since Katherine is making more sense! Plus, everyone expects me to be chaotic, so voting Boris will be a total shocker! Let's do it!
+Katherine (mafia) votes for Boris: Zoe voted for Boris. We need to eliminate Zoe as soon as possible as she is unpredictable and is likely to vote for me next. Boris is being too rational and is unlikely to be the detective, and he is also likely to be believed by Zoe.
+Boris (villager) votes for Katherine: Katherine and Zoe are clearly working together to frame me. Katherine's been manipulative from the start.
+Boris on trial with 2 votes (villager)
+
+Boris defense phase starting
+Boris (villager) defense: This is insane! Katherine and Zoe are trying to pin this on me. Elena voted for Katherine last round! Why would she do that if they were teamed up? Zoe's voting is completely chaotic! I'm not Mafia. Look at the facts! Katherine and Zoe are the ones deflecting. I'm not going down for this! I've been consistent. They're trying to confuse everyone. Vote Katherine! She's been manipulative from the start! Zoe is being chaotic and unpredictable. Don't fall for their lies!
+
+Final voting phase after Boris's defense
+Zoe (doctor) votes for Katherine: Ooh, Boris is REALLY trying to convince me Katherine is Mafia! That makes me want to vote for her EVEN MORE! Plus, she's being so calm and rational, which is WAY more suspicious than my chaos! Let's do it!
+Katherine (mafia) votes for Boris: Boris is trying to frame me and Zoe, but his arguments don't hold up. He's the most likely to be believed by Zoe.
+Boris (villager) votes for Katherine: Elena voted for Katherine last round. Boris is right; Zoe is chaotic but predictable. Katherine is manipulative.
+Katherine eliminated in final vote (mafia)
+==================================================
+🏆 GAME OVER!
+==================================================
+🏘️ VILLAGE WINS!
+All Mafia members have been eliminated!
+Game lasted 4 rounds
+Final Status:
+  Miranda (detective): ELIMINATED
+  Victor (villager): ELIMINATED
+  Elena (villager): ELIMINATED
+  Rosa (mafia): ELIMINATED
+  Sam (villager): ELIMINATED
+  Zoe (doctor): ALIVE
+  Katherine (mafia): ELIMINATED
+  Boris (villager): ALIVE
+Elimination order: Victor → Rosa → Sam → Miranda → Elena → Katherine
+Comprehensive logs created in folder: game_logs/game_20250817_145727
+✅ Game completed! Winner: VILLAGE

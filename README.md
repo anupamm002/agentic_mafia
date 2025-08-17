@@ -246,18 +246,6 @@ game = GameOrchestrator(
 )
 ```
 
-## 📄 License
-
-[Add your license here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## 📞 Support
-
-[Add support contact information here]
-
 ---
 
 *This multi-agent Mafia system demonstrates advanced AI coordination, strategic reasoning, and social dynamics. Each game session produces unique emergent behaviors and realistic gameplay patterns.*

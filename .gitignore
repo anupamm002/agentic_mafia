@@ -41,6 +41,3 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
-
-# Game logs (optional - you may want to commit some sample logs)
-game_logs/

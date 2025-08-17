@@ -1,0 +1,216 @@
+=== MAFIA GAME OBSERVER LOG ===
+Game started at: 2025-08-17T18:20:29.861973
+
+Starting Mafia Multi-Agent Game (Phase 1)
+Using gemini-2.0-flash-001 for AI agents
+Initializing Mafia Game...
+Game Setup Complete!
+Players: 8
+Random role assignments:
+  • Miranda (mafia)
+  • Victor (detective)
+  • Elena (villager)
+  • Rosa (doctor)
+  • Sam (mafia)
+  • Zoe (villager)
+  • Katherine (villager)
+  • Boris (villager)
+Mafia team: Miranda, Sam
+==================================================
+Round 1 - Night Phase
+🔪 Mafia discussing elimination...
+  Miranda proposes: Katherine (Katherine seems like she could be a strong, organized player. Better to eliminate her now before she figures things out. Plus, she hasn't said much, which makes me suspicious. Maybe she's the Detective hiding in the shadows?)
+  Sam proposes: Boris (Boris is often a strong player and could be a threat. Removing him early might be a good strategy.)
+  🎯 Mafia consensus: Eliminate Katherine
+🏥 Doctor saves: Elena (I have a really bad feeling about Elena being targeted. Something about her energy seems like she might be a threat to the Mafia.)
+🔍 Detective investigates: Boris (Role: villager)
+Mafia successfully eliminated Katherine
+
+Round 1 - Day Phase
+Players remaining with roles: [('Miranda', 'mafia'), ('Victor', 'detective'), ('Elena', 'villager'), ('Rosa', 'doctor'), ('Sam', 'mafia'), ('Zoe', 'villager'), ('Boris', 'villager')]
+Victor (detective): Good morning, everyone! Fresh day, fresh start. Anyone feeling particularly insightful this morning? I was thinking, maybe we should just start with some lighthearted introductions. Get to know each other a little better. Miranda, you seem like you've got a good head on your shoulders, what are your thoughts?
+Boris (villager): Victor's being too friendly. Round one, no one knows anything. Introductions are a waste of time. Let's get down to business. Victor, why are you stalling? Seems suspicious to me.
+Victor (detective): Boris, my friend, relax! "Too friendly?" Is that a crime now? I'm just trying to lighten the mood after Katherine's unfortunate demise. But since you're so eager to "get down to business," perhaps you could share your brilliant insights? Or are you just trying to deflect attention from yourself with these baseless accusations?
+Victor (detective): Boris, you wound me! Accusations already? Let's not jump to conclusions. But since you're so insistent, and to prove my innocence, I'll say this: I have a strong feeling about someone. It's just a hunch, but Elena, you've been awfully quiet. Perhaps you could share your perspective?
+Miranda (mafia): Boris is right, introductions are pointless. Victor's eagerness IS suspicious. But Boris, you're awfully quick to accuse. Why Elena? She's just quiet. Elena, are you quiet for a reason? Are you hiding something? Victor, are you trying to use Elena as a scapegoat? It's all so confusing! I'm also a little wary of Rosa; she's been awfully silent too...
+Elena (villager): Victor, I've been quiet because I'm observing. Accusations this early are rarely productive, but Boris's immediate suspicion of you, and now your deflection onto me, feels forced. Miranda's correct; Rosa's silence is also notable. I need more time to analyze everyone's behavior before I make any accusations.
+Rosa (doctor): Miranda, I've been quiet because I'm trying to get a read on everyone. But now that you've called me out, I'll say this: Boris's immediate aggression towards Victor felt really off to me. It felt like he was trying too hard to look innocent. Elena's right; it felt forced.
+Boris (villager): Enough with the accusations against me. Victor was acting suspicious, and I called him on it. Now everyone's jumping on me for being "aggressive." I'm being direct, unlike you lot tiptoeing around. Rosa and Elena think my suspicion of Victor is suspicious? Maybe you're both working with him.
+Miranda (mafia): Whoa, everyone's turning on each other! I'm still suspicious of Victor's over-eagerness, but now Boris is getting piled on. Rosa and Elena jumping to defend Victor... is that a little TOO convenient? And now they're both targeting Boris? It feels like a coordinated effort. I'm starting to think Rosa, Elena, and Victor might be working together. I'm so confused!
+Rosa (doctor): Miranda, I understand your confusion, but I'm not working with anyone. I just had a gut feeling about Boris's initial aggression. It felt performative. Now you're saying Elena and I are too conveniently defending Victor, but you were suspicious of Victor first! It feels like you're twisting things to fit a narrative. I still think Boris is suspicious.
+Elena (villager): Miranda, your suspicion of me, Rosa, and Victor is unfounded. Rosa and I both noted Boris's aggressive behavior towards Victor as suspicious *before* you even solidified your own suspicion of Victor. It's not coordinated; it's independent observation. I still find Boris's initial aggression highly suspect and worth further scrutiny.
+Elena (villager): Miranda, your read on me, Rosa, and Victor is inaccurate. We independently identified Boris's behavior as suspicious. Focusing on that initial aggression is key. Boris's defensiveness and shifting blame are concerning. Let's not get distracted by unfounded accusations. I propose we focus our attention back on Boris.
+Sam (mafia): This is getting out of hand. Accusations flying everywhere. I still think Boris is acting strangely. He's deflecting a lot. Let's not forget my initial suspicion of him. Elena and Rosa are right to call him out. I'm leaning towards voting Boris.
+Rosa (doctor): Miranda, I'm getting a terrible feeling about you now. You're jumping to conclusions and twisting everything we say. Elena and I pointed out Boris's behavior independently. Why are you so focused on us? It feels like you're trying to shift suspicion. I'm starting to distrust you more than Boris now.
+
+Starting voting phase
+
+Voting round 1 starting
+Miranda (mafia) votes for Boris: Everyone's already suspicious of him, so it's the easiest vote. Plus, he's directing too much attention at Victor, Elena, and Rosa, who might be onto us.
+Victor (detective) votes for Boris: I investigated Boris and he is a villager. While I don't want to eliminate an innocent, it is clear that the majority of the group is suspicious of him. It is better to let the village have their way and save my reveal for a more opportune moment.
+Elena (villager) votes for Boris: His initial, aggressive suspicion of Victor felt forced and his subsequent defensiveness is concerning.
+Rosa (doctor) votes for Miranda: I have a really bad feeling about her. She's twisting everything and jumping to conclusions. It feels like she's trying to frame Elena and me.
+Sam (mafia) votes for Rosa: She's actively distrusting Miranda, and that could expose us. Need to protect my teammate.
+Zoe (villager) votes for Rosa: Rosa's sudden shift to Miranda feels like a deflection. Too quick to pile on.
+Boris (villager) votes for Miranda: Everyone else seems to think it's me. I'll vote for myself to avoid further suspicion.
+Boris on trial with 3 votes (villager)
+
+Boris defense phase starting
+Boris (villager) defense: Alright, enough is enough. I called out Victor for acting suspicious right off the bat. Now Rosa, Elena, and Sam are piling on me for being "aggressive" and "deflecting." I'm not deflecting! I'm being direct! Victor *was* acting shady.
+
+You're all focusing on my tone instead of the content of my accusation. I'd rather be direct and wrong than polite and dead. Think about it: why are they so eager to defend Victor and attack me? Look at the coordinated effort to paint me as the bad guy. It's a classic Mafia tactic. Don't fall for it. Voting me out is a mistake.
+
+Final voting phase after Boris's defense
+Miranda (mafia) votes for Rosa: Rosa is now directly accusing me. She's getting too close and is clearly suspicious of my actions. She needs to go before she convinces others.
+Victor (detective) votes for Boris: Despite the chaos, Boris has been consistently defensive and shifting blame. My investigation confirmed he's a villager, but his behavior is too disruptive and town-like players are already suspicious of him. Eliminating him will reduce the heat on me and hopefully appease some of the more suspicious players.
+Elena (villager) votes for Boris: Boris's defense didn't address the initial forced aggression towards Victor, which still seems suspicious. He continues to deflect rather than provide a clear explanation.
+Rosa (doctor) votes for Miranda: I have a really bad feeling about Miranda. She's twisting everything and jumping to conclusions. Her accusations against Elena and me feel completely unfounded, and it feels like she's trying to deflect suspicion from herself.
+Sam (mafia) votes for Boris: Even with his defense, Boris's initial aggression and defensiveness still make him the most suspicious.
+Zoe (villager) votes for Miranda: Everyone is accusing everyone! Miranda is jumping all over the place with accusations and it's making my head spin! I think it's funny to vote for her just to see what happens.
+Boris (villager) votes for Miranda: Cannot vote for self, voting Miranda instead
+Final vote tied: ['Boris', 'Miranda'] with 3 votes each - no elimination
+
+Voting round 2 starting
+Miranda (mafia) votes for Boris: He's drawing too much heat and could expose Sam and me.
+Victor (detective) votes for Boris: I investigated Boris and he is a villager. While I don't want to eliminate a villager, he is the primary suspect and it's too early to reveal my role.
+Elena (villager) votes for Boris: His initial aggression towards Victor and subsequent defensiveness is highly suspicious.
+Rosa (doctor) votes for Miranda: I have a really bad feeling about Miranda. She's twisting everything and jumping to conclusions. It feels like she's trying to make Elena and I look suspicious, and that feels like a Mafia tactic.
+Sam (mafia) votes for Rosa: Rosa is getting too close to figuring out Miranda and me. She needs to be silenced.
+Zoe (villager) votes for Miranda: She's jumping around with accusations and seems to be trying to deflect suspicion onto others.
+Boris (villager) votes for Miranda: I'm not Mafia, but everyone is voting for me. I'll take one for the team, maybe it will help the village.
+Tie in round 2: ['Boris', 'Miranda'] with 3 votes each
+
+Voting round 3 starting
+Miranda (mafia) votes for Boris: He's already got three votes, and the heat is on him. Let's finish the job. If he survives the revote, he'll be even more suspicious.
+Victor (detective) votes for Miranda: Sam's vote for Rosa and Miranda's earlier vote for Boris suggest they are partners. Boris is confirmed villager, so Miranda is likely Mafia.
+Elena (villager) votes for Boris: Despite Victor's claim, Boris is still the most suspicious player due to his initial, overly aggressive behavior and subsequent defensiveness. The votes are tied, and eliminating him is the more prudent choice given his actions.
+Rosa (doctor) votes for Miranda: I have a terrible feeling about Miranda. She's twisting everything and I think she's Mafia.
+Sam (mafia) votes for Boris: He's already got multiple votes, and it's safer to eliminate him than risk suspicion falling on Miranda.
+Zoe (villager) votes for Sam: He voted for Rosa out of nowhere, saying she's "getting too close" to figuring out Miranda and him. That sounds super suspicious!
+Boris (villager) votes for Miranda: Rosa and Zoe are suspicious of Miranda, and they're not working together. If Miranda goes, we can see how they react.
+Tie in round 3: ['Boris', 'Miranda'] with 3 votes each
+No elimination due to 3-round tie
+Round 2 - Night Phase
+🔪 Mafia discussing elimination...
+  Miranda proposes: Victor (Victor is the only player who has revealed information (that Boris is a villager). He's probably the Detective and needs to be eliminated before he investigates us. Boris is already under suspicion and we can deal with him later.)
+  Sam proposes: Victor (Victor investigated Boris and knows he's a villager. He's also suspicious of Miranda and me. He's too close to the truth and needs to be eliminated before he reveals more information.)
+  🎯 Mafia consensus: Eliminate Victor
+🏥 Doctor saves: Miranda (I have a really strong feeling that Miranda is going to be targeted tonight. She's been making a lot of accusations and causing a lot of chaos, which makes her a threat to the Mafia. I still distrust her, but I think it's more important to keep her alive for now and see where her suspicions lead.)
+🔍 Detective investigates: Miranda (Role: mafia)
+Mafia successfully eliminated Victor
+
+Round 2 - Day Phase
+Players remaining with roles: [('Miranda', 'mafia'), ('Elena', 'villager'), ('Rosa', 'doctor'), ('Sam', 'mafia'), ('Zoe', 'villager'), ('Boris', 'villager')]
+Boris (villager): This is ridiculous. Victor claimed he investigated me and I'm a villager. He's dead. So, is he lying, or was he telling the truth? If he was telling the truth, why are we still targeting me? Miranda and Sam are working together. Zoe saw through Sam's suspicious vote for Rosa. Let's vote Sam!
+Zoe (villager): Whoa, whoa, WHOA! Boris thinks Sam and I are working together? That's NONSENSE! I voted for SAM last round because he voted for Rosa out of NOWHERE! That's suspicious! And Rosa's been suspicious of Miranda ALL DAY! It doesn't mean they're working together! Let's not jump to conclusions! Maybe Boris is just trying to shift the blame AGAIN! Let's vote Boris!
+Elena (villager): Boris continues to deflect. Victor's claim that he investigated Boris is suspicious given Victor's actions. Zoe's read on Sam's vote for Rosa is accurate. Miranda and Sam are likely working together. I maintain that Boris's initial aggression was highly suspicious. We should vote Miranda.
+Miranda (mafia): Elena is trying to pin this on me, but it's not working! I was suspicious of Boris from the start, and now Victor says he's a villager? Something's not adding up. Maybe Victor was lying to protect someone else. I still think Boris is suspicious, and Elena is too eager to defend him. Why?
+Rosa (doctor): Elena, I don't understand why you're still defending Boris! Victor said he investigated him, and Victor is dead! Doesn't that seem suspicious to you? And Miranda, I have a terrible feeling about you. You're twisting everything! I feel like I'm going crazy!
+Sam (mafia): I'm not working with Miranda. Zoe's right, my vote for Rosa was out of left field. I panicked. I thought she was catching on to something. But I'm not Mafia. Elena's still pushing Boris, even after Victor cleared him. Isn't that more suspicious? Maybe Elena is trying to frame Miranda.
+Elena (villager): I am not Mafia. I find it absurd that I'm defending Boris; I initially found him suspicious, and I still do. Victor's claim is questionable. Miranda and Sam are likely partners. My focus remains on Boris and Miranda. Let's vote Miranda and reassess.
+Sam (mafia): Elena's still pushing Miranda, even after I explained my vote for Rosa. It's too convenient. She's trying to frame Miranda. Look, I panicked yesterday and voted for Rosa, but I'm not Mafia. Focus on Elena; she's being too persistent.
+Zoe (villager): Okay, okay, EVERYONE CALM DOWN! I'm NOT working with Boris! I voted Sam because he was SUSPECT! Elena is pinning this on Miranda, but maybe she's just trying to hide HERSELF! Maybe Rosa is right about Miranda, but she was right about Victor too! AAAAH! This is too much! I think... I think we should vote Elena! She's too calm!
+Boris (villager): Enough! Victor lied. End of story. I'm a villager. Elena is obsessed with me even after Victor's claim. She's trying to deflect. And Miranda is throwing accusations everywhere to muddy the waters. Let's vote Elena. She's too focused on me, and that's a classic Mafia tactic.
+Rosa (doctor): I'm not defending Boris! I just think Miranda is twisting things to make me look suspicious. I still distrust Boris, but Miranda feels more urgent right now. Sam's vote for me yesterday was really strange and I still don't trust him. It felt like he was trying to get me out of the way for Miranda. Elena, I don't understand why you're still so focused on Boris after Victor's claim, but I trust your judgment.
+Miranda (mafia): Elena and Boris are pushing me TOO hard. It's a clear attempt to deflect. Why are they so eager to get rid of me? And Sam explained his vote! He panicked. Elena is still obsessed with Boris even after Victor cleared him. I'm starting to think Elena and Boris are working together!
+
+Starting voting phase
+
+Voting round 1 starting
+Miranda (mafia) votes for Elena: Elena is too focused on me and won't let it go. She's a threat.
+Elena (villager) votes for Miranda: Miranda and Sam are likely partners, and Miranda's behavior has been increasingly suspicious, twisting things and deflecting.
+Rosa (doctor) votes for Boris: I still have a bad feeling about Boris, even after Victor's claim. Victor is dead now, so maybe he was lying. Elena seems to trust her instincts, and she's still suspicious of him.
+Sam (mafia) votes for Zoe: Zoe's erratic behavior and jumping between suspects makes her unpredictable. She's also suspicious of me and could easily turn on Miranda. Eliminating her removes a wild card.
+Zoe (villager) votes for Boris: He's still deflecting and Victor's claim is suspicious, even if Victor was lying.
+Boris (villager) votes for Elena: She's too focused on me even after Victor's claim. She's deflecting.
+Tie in round 1: ['Elena', 'Boris'] with 2 votes each
+
+Voting round 2 starting
+Miranda (mafia) votes for Zoe: Zoe is too chaotic and unpredictable. She could turn on anyone at any moment.
+Elena (villager) votes for Miranda: Miranda is twisting arguments and deflecting suspicion onto others. Her partnership with Sam is also highly likely.
+Rosa (doctor) votes for Sam: Sam's vote for me came out of nowhere yesterday, and I still don't trust him. I think he's trying to protect Miranda.
+Sam (mafia) votes for Elena: Elena is still pushing Miranda, even after I tried to throw her off the scent. She's too persistent and a threat to our team.
+Zoe (villager) votes for Boris: He's been suspicious since day one and everyone's still arguing about him! Plus, Victor is dead, so his claim is useless!
+Boris (villager) votes for Elena: Elena has been obsessed with me even after Victor's claim, which I believe was a lie. This is a deflection tactic.
+Elena on trial with 2 votes (villager)
+
+Elena defense phase starting
+Elena (villager) defense: I am not Mafia. My focus on Boris stemmed from his initial, highly suspicious aggression towards Victor. Victor's claim about investigating Boris is questionable, especially given Victor's behavior and now his death.
+
+I believe Miranda and Sam are working together, evidenced by their voting patterns. My continued suspicion of Boris doesn't make me Mafia; it means I'm consistent in my analysis. I am not deflecting; I am highlighting what I believe to be the most likely scenario based on observed behavior. Voting me out benefits the Mafia. Vote Miranda.
+
+Final voting phase after Elena's defense
+Miranda (mafia) votes for Elena: Elena is still pushing the "Boris is suspicious" narrative even after Victor's claim. She's too focused on him and could expose Sam and me.
+Elena (villager) votes for Miranda: Elena's continued focus on Miranda, combined with Rosa's suspicion and Sam's initial partnership with Miranda, makes her the most logical target.
+Rosa (doctor) votes for Elena: I still have a bad feeling about Miranda, but Elena's focus on Boris after Victor's claim feels really off. Sam's explanation for his vote makes more sense now, and I trust my gut feeling about Miranda more than Boris. Elena is being too stubborn.
+Sam (mafia) votes for Elena: Elena is too focused on Miranda and me. She won't let it go and is a threat to our Mafia team.
+Zoe (villager) votes for Sam: He voted for Rosa out of nowhere, panicked, and is still acting weird. Elena's defense made sense, and Boris is too obvious. Miranda is twisting things, but Sam is a wildcard.
+Boris (villager) votes for Elena: She's obsessed with me even after Victor's claim, trying to deflect.
+Elena eliminated in final vote (villager)
+Round 3 - Night Phase
+🔪 Mafia discussing elimination...
+  Miranda proposes: Boris (Boris is trying to claim Victor was lying about investigating him. He's making himself a target and potentially drawing heat off of us. Rosa seems to still distrust him, and Zoe is unpredictable but also voted for him last round. Eliminating him might make us look like we're targeting the 'obvious' suspect, deflecting suspicion from Sam and me. Plus, he's been a pain since day one, constantly accusing people.)
+  Sam proposes: Boris (Boris is confirmed as a villager by Victor. Although Victor is dead, the suspicion on Boris has lessened, and he could start looking at Miranda and me if we don't silence him. He's also been actively trying to figure out who the Mafia is.)
+  🎯 Mafia consensus: Eliminate Boris
+🏥 Doctor saves: Miranda (I have a terrible feeling about Miranda being targeted tonight. She's made a lot of enemies, and I think the Mafia will want to silence her.)
+Mafia successfully eliminated Boris
+
+Round 3 - Day Phase
+Players remaining with roles: [('Miranda', 'mafia'), ('Rosa', 'doctor'), ('Sam', 'mafia'), ('Zoe', 'villager')]
+Miranda (mafia): I’m honestly reeling from Elena’s elimination. Rosa, I appreciate you trusting my gut, but now I'm second-guessing everything. Sam, you voting Zoe last round was… unexpected. Can you explain that again? Boris, you were SO sure Elena was Mafia, and now she’s gone. What do you think now? I'm so confused; I just want to catch the real Mafia!
+Rosa (doctor): I'm still reeling from Elena's elimination too, Miranda. I trusted her judgment. Sam, your vote for Zoe felt off. Why her? Boris, you were so sure about Elena. What's your read now? I'm getting a bad feeling about this whole situation.
+Zoe (villager): WHOA! Everyone's reeling? I'm SUPER reeling! Sam voted for *me*! Why? I'm just trying to figure things out! Boris, you were wrong about Elena! Now what? Rosa trusted Miranda, and now she's second-guessing? I'm second-guessing EVERYTHING! Maybe Sam is Mafia and voted for me to look innocent! I'm so confused!
+Sam (mafia): Zoe, I voted for you because you were all over the place! Accusing everyone! I panicked and thought you were about to figure me out. I was wrong about Elena, clearly. But now you're accusing *me* of being Mafia to look innocent? It's the same tactic Elena used.
+Sam (mafia): I'm starting to think Rosa's right about Miranda. She's been twisting things since day one. Zoe, I panicked yesterday, but now I see it too. Miranda is deflecting hard. Let's vote Miranda.
+Rosa (doctor): I'm so lost. First Elena, now what? Sam, Zoe, you both voted so strangely last round. It makes me distrust both of you. Miranda, I trusted you, but now I don't know what to think. I'm getting a terrible feeling about this whole thing. Someone is playing us.
+Zoe (villager): WHOA! Everyone thinks I'm Mafia now? I'M NOT! Sam voted for ME because I'm unpredictable? That's ridiculous! And Rosa, you trusted Miranda? She’s been twisting things since day one! I’m just trying to figure things out! Maybe *Miranda* is playing us ALL! Let's vote MIRANDA!
+Miranda (mafia): Everyone's accusing me! Sam, you voting for me after I trusted you? Rosa, you were right, I WAS twisting things, because I was confused! I'm not anymore. Sam is trying to pin this on me, but he's the one who panicked! Let's vote Sam.
+
+Starting voting phase
+
+Voting round 1 starting
+Miranda (mafia) votes for Zoe: Zoe is too unpredictable and has been accusing everyone. She's also suspicious of Sam. We need to eliminate her before she figures anything out.
+Rosa (doctor) votes for Sam: I have a terrible feeling about Sam. His vote for me yesterday was out of nowhere, and he's been acting strangely. He's also been quick to accuse Miranda, and it feels like he's trying too hard to look innocent.
+Sam (mafia) votes for Rosa: Rosa is suspicious of both Miranda and me. She's too close to the truth and needs to be eliminated.
+Zoe (villager) votes for Miranda: She's been twisting things since the start and Rosa used to trust her and now doesn't! Sam and Rosa both seem to suspect her too!
+Tie in round 1: ['Zoe', 'Sam', 'Rosa', 'Miranda'] with 1 votes each
+
+Voting round 2 starting
+Miranda (mafia) votes for Rosa: She's suspicious of both Sam and me. We need to eliminate her before she convinces Zoe that we're Mafia.
+Rosa (doctor) votes for Sam: I have a terrible feeling about Sam and his vote for me. It felt out of nowhere. He's trying to get me out of the way so he and Miranda can win.
+Sam (mafia) votes for Zoe: Zoe is unpredictable and accusing everyone, including me. She's too dangerous to keep around.
+Zoe (villager) votes for Miranda: Everyone's accusing her and she's been twisting things all along! Rosa trusted her, but now doesn't!
+Tie in round 2: ['Rosa', 'Sam', 'Zoe', 'Miranda'] with 1 votes each
+
+Voting round 3 starting
+Miranda (mafia) votes for Sam: Everyone's accusing me, and he's already got a vote. He panicked before, he could panic again and expose us. Better to cut our losses.
+Rosa (doctor) votes for Sam: I have a terrible feeling about Sam. His vote for me yesterday was out of nowhere, and he's been acting strangely. He's trying to get me out of the way so he and Miranda can win.
+Sam (mafia) votes for Miranda: Rosa is suspicious of both of us, but I can make a case against Miranda. Zoe is unpredictable, but Miranda being eliminated might make me seem less suspicious.
+Zoe (villager) votes for Miranda: Sam and Rosa both voted for her and she's been twisting things all game!
+Tie in round 3: ['Sam', 'Miranda'] with 2 votes each
+No elimination due to 3-round tie
+Round 4 - Night Phase
+🔪 Mafia discussing elimination...
+  Miranda proposes: Rosa (Rosa has been suspicious of both Sam and me, and she's shown a willingness to trust her gut. She's the biggest threat to exposing us and needs to be eliminated before she convinces Zoe.)
+  Sam proposes: Zoe (Zoe is too unpredictable and chaotic. She's accused everyone, and her votes are all over the place. She's a wild card and could easily stumble upon the truth, making her a significant threat. Rosa, while suspicious, is more predictable and potentially easier to manipulate.)
+  🎯 Mafia consensus: Eliminate Rosa
+🏥 Doctor saves: Miranda (I have a terrible feeling about Miranda being targeted tonight. Sam seems desperate to get rid of her, which makes me think the Mafia wants her gone. I still distrust her, but I trust my gut that she's the most at risk.)
+Mafia successfully eliminated Rosa
+==================================================
+🏆 GAME OVER!
+==================================================
+🔪 MAFIA WINS!
+The Mafia has eliminated enough villagers to take control!
+Game lasted 4 rounds
+Final Status:
+  Miranda (mafia): ALIVE
+  Victor (detective): ELIMINATED
+  Elena (villager): ELIMINATED
+  Rosa (doctor): ELIMINATED
+  Sam (mafia): ALIVE
+  Zoe (villager): ALIVE
+  Katherine (villager): ELIMINATED
+  Boris (villager): ELIMINATED
+Elimination order: Katherine → Victor → Elena → Boris → Rosa
+Comprehensive logs created in folder: game_logs/game_20250817_182029
+✅ Game completed! Winner: MAFIA

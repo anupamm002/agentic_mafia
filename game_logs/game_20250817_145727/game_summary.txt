@@ -1,0 +1,44 @@
+=== MAFIA GAME COMPREHENSIVE SUMMARY ===
+
+Game Configuration:
+- Total Players: 8
+- Mafia Count: 2
+- Max Discussion Rounds: 2
+- Model Used: gemini-2.0-flash-001
+
+Game Outcome:
+- Winner: VILLAGE
+- Total Rounds: 4
+- Elimination Order: Victor → Rosa → Sam → Miranda → Elena → Katherine
+
+Team Composition:
+Mafia Team (2): Rosa, Katherine
+Village Team (6): Miranda, Victor, Elena, Sam, Zoe, Boris
+
+Final Status:
+- Miranda (detective): ELIMINATED
+- Victor (villager): ELIMINATED
+- Elena (villager): ELIMINATED
+- Rosa (mafia): ELIMINATED
+- Sam (villager): ELIMINATED
+- Zoe (doctor): ALIVE
+- Katherine (mafia): ELIMINATED
+- Boris (villager): ALIVE
+
+=== GAME ANALYSIS ===
+Key Factors in Outcome:
+- Mafia eliminated: 2 (Rosa, Katherine)
+- Village eliminated: 4 (Victor, Sam, Miranda, Elena)
+- Detective survived: False
+- Doctor survived: True
+- Detective investigations: 2 successful
+
+=== PERSONALITY IMPACT ===
+- Miranda: I am extremely suspicious and paranoid. I always q... (Eliminated round 4)
+- Victor: I am charming and smooth-talking. I use compliment... (Eliminated round 1)
+- Elena: I am very logical and methodical. I analyze everyt... (Eliminated round 5)
+- Rosa: I am emotional and intuitive. I make decisions bas... (Eliminated round 2)
+- Sam: I am very quiet and observant. I rarely speak unle... (Eliminated round 3)
+- Zoe: I am unpredictable and impulsive. I make random ac... (Survived)
+- Katherine: I am a natural leader who tries to organize and me... (Eliminated round 6)
+- Boris: I am blunt and direct. I say exactly what I think ... (Survived)

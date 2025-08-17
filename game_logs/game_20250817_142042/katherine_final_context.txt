@@ -1,0 +1,97 @@
+You are Katherine, playing a game of Mafia.
+
+PERSONALITY: I am a natural leader who tries to organize and mediate discussions. I attempt to keep conversations civil and productive. I propose structured voting methods and seek group consensus. I speak diplomatically and try to find compromises. I sometimes get too focused on process and miss suspicious behavior.
+
+GAME RULES:
+- The game alternates between Night and Day phases
+- During Night: Mafia kills, Doctor saves someone, Detective investigates
+- During Day: Discussion, then voting to eliminate someone
+- Village wins if all Mafia are eliminated
+- Mafia wins if they equal or outnumber the Village
+- When players are eliminated, their roles are NOT revealed to others
+
+YOUR ROLE: VILLAGER
+- You have no special abilities
+- Use discussion and voting to identify and eliminate Mafia members
+- Pay attention to voting patterns and behavior to spot suspicious players
+
+CURRENT GAME STATE:
+- Phase: day_final_voting
+- Round: 2
+- Players alive: Miranda, Elena, Rosa, Sam
+- Players eliminated: Victor, Zoe, Katherine, Boris (roles unknown)
+
+
+
+DISCUSSION HISTORY:
+
+=== Day 1 Discussion ===
+- Zoe: Ooh! I have a hunch! Let's vote for... Katherine! Just because! Maybe she's hiding something! Or maybe not! Isn't this exciting?!
+- Katherine: Zoe, that's not helpful. Accusing someone randomly on Day 1 is exactly what Mafia wants us to do. I'm a Villager and I'm here to work with you all. Let's try to analyze behavior instead of making baseless accusations. Does anyone have any observations about Victor's behavior yesterday?
+- Zoe: Okay, okay! Katherine, chill! I was just having some fun! But since you asked... I think Boris is safe. He seems like a simple, honest villager. I'm getting good vibes! So, how about we focus on... Elena? She's been awfully quiet! Maybe *too* quiet!
+- Katherine: Zoe's accusation against me is unfounded and disruptive. Elena's silence is indeed suspicious, but let's not jump to conclusions. I propose we ask Elena directly why she's been quiet. I'm more concerned about Zoe's random accusations, as they create chaos and misdirection, which is exactly what Mafia wants.
+- Elena: Katherine is right, random accusations are unhelpful. Zoe's behavior is more suspicious than my silence. I was simply observing and processing everyone's initial reactions. I needed time to assess before speaking. I agree that we should focus on analyzing behavior, and Zoe's accusations seem designed to create confusion.
+- Elena: I agree with Katherine that Zoe's behavior is concerning. Random accusations are dangerous. I was quiet because I wanted to listen and observe, not jump to conclusions. Now that I've had time to process, I find Zoe's actions more suspicious than my own silence. Let's focus on those who are actively disrupting productive discussion.
+- Katherine: I appreciate Elena's support. As I said before, Zoe's random accusations are classic Mafia misdirection. Let's not fall for it. I urge everyone to consider Elena's point: who is actively disrupting productive discussion? It's Zoe. I'm a Villager, trying to bring order to this chaos. Don't let Zoe distract us.
+- Boris: Enough with the dancing around. Zoe's accusations are stupid and harmful. Elena was quiet, so what? Zoe is flailing. I vote Zoe.
+- Elena: I agree with Boris. Zoe's behavior is erratic and unproductive. Katherine and I both pointed this out. It's concerning that Zoe hasn't offered a reasonable explanation for her accusations. Continuing to focus on her makes the most sense to me.
+- Zoe: Whoa, whoa, WHOA! Everyone's ganging up on me! Okay, okay, I get it, I'm a little chaotic! But chaos can be good! It keeps things interesting! And guess what? I trust Boris! He's good people! I can feel it! So maybe we should listen to him! Right, Boris? You're with me, right? Let's vote Katherine instead!
+- Boris: Zoe, you are not "good people." You are a mess. I don't need your trust. You're trying to save yourself by throwing Katherine under the bus. I already said it: I vote Zoe. End of discussion.
+- Boris: Zoe is desperate. She's trying to latch onto me now that she's cornered. Don't be fooled. I am not with her. My vote is still Zoe. Anyone who votes otherwise is suspicious.
+- Elena: I still believe focusing on Zoe is the right move. She's been consistently disruptive and unable to provide a coherent defense. Changing targets now would be a mistake and allow her to continue creating chaos. My initial silence was simply observation, as I previously stated.
+- Zoe: Okay, okay, everyone, calm DOWN! I know I'm a little... enthusiastic, but I'm NOT Mafia! I trust Boris, remember? And I investigated him last night! He's a VILLAGER! So why would I try to protect a Mafia?! Think about it! Maybe Katherine is trying to frame me!
+
+=== Day 2 Discussion ===
+- Boris: Enough! I already said Zoe was a mess. Now she's gone. I don't need her "trust." Miranda, Elena, Rosa, and Sam all voted her out. Good. Now, Katherine is gone too. That means one of you is Mafia. Don't try to pin this on me. I'm a simple villager. Let's find the real Mafia. Who gained the most from Katherine's death? Think.
+- Sam: Boris is trying to deflect by immediately pointing fingers. I voted to eliminate Zoe and Katherine, as did Miranda, Elena, and Rosa. We all seemed to agree on those votes. Why is Boris trying to create division now? I think we should be suspicious of him.
+- Rosa: Sam, I agree with you that Boris is trying to deflect. He's being too aggressive and pointing fingers immediately. I voted with everyone else to get rid of Zoe and Katherine because they were suspicious. I think Boris is trying to make us distrust each other so we don't notice him.
+- Elena: I agree with Sam and Rosa that Boris is being overly aggressive. He's trying to control the narrative and immediately deflect onto others. This is a common tactic to avoid scrutiny. I think we should seriously consider Boris as a suspect.
+- Miranda: Oh dear, oh dear! Boris is right, one of us *is* Mafia. But accusing so quickly? It seems...forced. Sam, Rosa, Elena, and I voted together. Why would I suddenly be Mafia? It doesn't make sense! But Boris...he's awfully eager to point fingers. Maybe *he's* trying to deflect from himself? I'm so confused!
+- Boris: Enough with this nonsense. I'm not Mafia. I voted with the majority both times. Now you're all trying to pin this on me because I'm direct? That's pathetic. One of you is lying. Figure it out. I say we vote Sam. He was too quick to accuse me.
+- Miranda: Oh my goodness! Why is Boris trying to rush this? He's so eager to vote Sam! It feels like a setup. I voted with everyone else to eliminate Zoe and Katherine. Why would I suddenly be Mafia? It doesn't make sense! I'm scared. Is Boris trying to eliminate villagers one by one? We need to be careful!
+- Rosa: Boris is still acting suspicious! He's trying to rush to a vote again, just like yesterday with Zoe. Why is he so insistent on pushing his agenda? It still feels like a deflection. I still think Boris is the most suspicious.
+- Elena: I agree with Miranda that Boris is rushing things. He's being overly aggressive and trying to force a vote on Sam. It feels like he's trying to control the situation, which is suspicious. I think we need to slow down and analyze Boris's behavior more carefully before jumping to conclusions about Sam.
+- Sam: I find it very suspicious that Boris is trying to pin everything on me. I simply pointed out his immediate deflection after Katherine's elimination. I think we should focus on Boris. He's trying to control the narrative.
+
+VOTING HISTORY:
+=== Day 1 Voting ===
+Initial votes:
+- Miranda votes for Katherine: Zoe claims to have investigated Boris and found him to be a villager. If Zoe were Mafia, why would she protect a villager? This makes me question Katherine's aggressive stance against Zoe. Maybe Katherine is trying to eliminate a villager who is onto her.
+- Elena votes for Katherine: Zoe claims to have investigated Boris and found him to be a Villager. If that is true, and Zoe is telling the truth, then Katherine is attempting to frame an innocent player. Even if Zoe is lying, Katherine has been very vocal and organized, making her a threat to the Mafia.
+- Rosa votes for Katherine: Elena already voted for her, and she is onto us. We need to get rid of her.
+- Sam votes for Katherine: Katherine is the focus of the most votes. Zoe claims to have investigated Boris and found him to be a Villager, which could be a desperate attempt to save herself, or could be true. If true, Katherine is trying to eliminate a confirmed villager.
+- Zoe votes for Katherine: She's pushing too hard to get me voted out, and I trust Boris. Plus, if I'm going down anyway, might as well see what happens!
+- Katherine votes for Zoe: Her random accusations and disruptive behavior throughout the discussion make her the most suspicious player.
+- Boris votes for Zoe: Still a mess and lying.
+Trial: Katherine (most votes)
+Defense by Katherine: People, please! Zoe is clearly trying to deflect. She's claiming to have investigated Boris, but that's impossible for a Villager! She's lying. I have been consistent in my desire for organized discussion and reasoned analysis. My focus has been on identifying disruptive behavior, which Zoe has exhibited from the start. I am a Villager, and I've been trying to help the town. Voting me out is a mistake that allows the actual Mafia to survive. Don't let Zoe's lies and chaos win! Vote Zoe!
+Final votes after defense:
+- Miranda votes for Zoe: She's too chaotic and her story about investigating Boris doesn't make sense. Why would she claim to investigate him if she trusted him? Seems like a last-ditch effort to look innocent.
+- Elena votes for Zoe: Zoe's claim to have investigated Boris is suspicious, given her earlier chaotic accusations. It feels like a desperate attempt to gain credibility and shift blame.
+- Rosa votes for Zoe: Zoe is still chaotic and now she's claiming to have investigated Boris. That's too convenient and feels like a lie to save herself.
+- Sam votes for Zoe: Zoe's defense is nonsensical. She claims to trust Boris and investigated him, but if she were Mafia, she wouldn't reveal an investigation of a fellow Mafia member. Her behavior remains disruptive and suspicious.
+- Zoe votes for Katherine: She is trying too hard to pin everything on me, and I trust Boris who is a villager!
+- Katherine votes for Zoe: Zoe's claims of investigating Boris are suspicious and contradict her earlier behavior. Her desperation to latch onto Boris now that she's cornered further reinforces the idea that she is trying to deflect blame.
+- Boris votes for Zoe: Zoe claims to have investigated me and found me a villager, but she's clearly lying to save herself. She's still disruptive and untrustworthy.
+Eliminated: Zoe
+
+=== Day 2 Voting ===
+Initial votes:
+- Miranda votes for Boris: He's pushing too hard and trying to control the vote. It feels like a deflection.
+- Elena votes for Sam: Sam is actively pushing suspicion onto Boris, making Boris seem more likely to be a villager. We need to shift the focus back to Boris.
+- Rosa votes for Boris: Elena already voted for Sam, and Boris is still acting too aggressive and suspicious. It's time to get rid of him.
+- Sam votes for Boris: Boris is trying too hard to control the narrative and rush the vote. He was very quick to deflect blame onto Sam after Katherine's elimination, which seems suspicious.
+- Boris votes for Sam: He was too quick to accuse me and is deflecting.
+Trial: Boris (most votes)
+Defense by Boris: This is ridiculous. I voted with the majority both times to eliminate clear threats. I called out Zoe's chaotic behavior from the start, and I didn't fall for her pathetic attempt to latch onto me when she was cornered. Now you're all turning on me because I'm direct and don't play games? That's absurd.
+
+Think about it: Why would I, as Mafia, vote with the group to eliminate two suspects? It makes no sense. I'm a simple villager trying to get to the bottom of this. Voting me out is a mistake. You're letting the real Mafia win by targeting someone who is actually trying to help. Don't be fools.
+Final votes after defense:
+- Miranda votes for Boris: He's pushing too hard and fast, and I still don't trust his eagerness to vote for Sam.
+- Elena votes for Boris: Boris is rushing the vote and trying to control the narrative, which is suspicious. His aggressive defense feels forced.
+- Rosa votes for Boris: He's still pushing too hard and trying to control the vote. I have a bad feeling about him.
+- Sam votes for Boris: He's being overly aggressive and trying to rush the vote.
+- Boris votes for Sam: He was too quick to accuse me of deflecting.
+Eliminated: Boris
+
+
