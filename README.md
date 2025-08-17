@@ -102,7 +102,7 @@ Agents have unique personalities defined in `agent_personalities.py`:
 ### Roles
 
 - **Mafia**: Know each other, eliminate villagers at night
-- **Doctor**: Save one player each night (cannot save themselves)
+- **Doctor**: Save one player each night
 - **Detective**: Investigate one player each night to learn their role
 - **Villager**: Use discussion and voting to identify Mafia
 
@@ -226,7 +226,7 @@ def check_win_condition(self) -> Optional[str]:
 This is Part 1 of a planned 3-part series:
 
 - **Part 2**: Short-term memory integration for dynamic reasoning
-- **Part 3**: Long-term learning and player adaptation
+- **Part 3**: Learning and player adaptation with Long-term memory
 
 ## 🐛 Troubleshooting
 
